@@ -2,6 +2,7 @@
   "name": "tripfly",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://bartoszjaniuk.github.io/tripfly/",
   "browserslist": "last 10 versions",
   "main": "index.js",
   "scripts": {
